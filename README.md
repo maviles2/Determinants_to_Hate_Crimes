@@ -7,6 +7,9 @@ The following analysis will be exploring hate crime data from FiveThirtyEight an
 ## https://maviles2.github.io/Hate_Crimes/.
 
 
+
+
+
 ## Which Domain?
 
 GitHub will be the main domain utilized for this project, and the dataset on the subject of hate crime will be analyzed. The dataset contains factors from several websites and organizations such as the FBI, Southern Poverty Law Center, United States Census, and the Kaiser Family Foundation. This data will look at the determinants of hate crimes in the United States. 
